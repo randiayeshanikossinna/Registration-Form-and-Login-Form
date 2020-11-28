@@ -5,7 +5,8 @@
  </head>
  <body>
      <div class="header">
-     <h2>Register Form</h2>
+     <h1>Register Form </h1>
+
      </div>
  </body>
       
