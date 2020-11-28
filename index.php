@@ -9,7 +9,7 @@
      </div>
     <div class="inputdata">
            <form action="">
-           <label></label>
+           <label><input type="text"></label>
            </form>
     </div>
  </body>
