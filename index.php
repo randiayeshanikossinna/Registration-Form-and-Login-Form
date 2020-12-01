@@ -8,6 +8,7 @@
      <h1>Register Form </h1>
      </div>
     <div class="inputdata">
+    //registration form was created.
     <form action="register.php" method="form">
            <label>User Name<input type="text" name="uname"></label> <br> <br>
            <label>Email<input type="text" name="email"></label> <br><br>
