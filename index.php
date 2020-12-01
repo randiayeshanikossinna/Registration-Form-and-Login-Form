@@ -17,7 +17,6 @@
            <label>Password<input type="password" name="password_1"></label> <br> <br>
            <label>Comform Password<input type="password" name="password_2"></label> <br><br>
           <button type="submit" Name="register" class="btn">Register</button>
-           </form>
-    </div>
+           </form></div>
  </body>
 </html>
