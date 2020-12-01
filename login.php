@@ -10,7 +10,6 @@
      </div>
 
     <div class="inputdata">
-  
     <form action="register.php" method="form">
            <label>User Name<input type="text" name="uname"></label> <br> <br>
            <label>Password<input type="password" name="password_1"></label> <br> <br>

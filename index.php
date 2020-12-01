@@ -10,7 +10,6 @@
      </div>
 
     <div class="inputdata">
-  
     <form action="register.php" method="form">
            <label>User Name<input type="text" name="uname"></label> <br> <br>
            <label>Email<input type="text" name="email"></label> <br><br>
@@ -22,6 +21,6 @@
           </p>
            </form>
            </div>
-           
+
  </body>
 </html>
