@@ -4,8 +4,10 @@
       <link rel="stylesheet"  href="style.css">
  </head>
  <body>
+ //header part
      <div class="header">
      <h1>Register Form </h1>
+
      </div>
     <div class="inputdata">
     //registration form was created.
@@ -16,6 +18,7 @@
            <label>Comform Password<input type="password" name="password_2"></label> <br><br>
           <button type="submit" Name="register" class="btn">Register</button>
            </form>
+
     </div>
  </body>
 </html>
