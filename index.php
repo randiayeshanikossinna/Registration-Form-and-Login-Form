@@ -1,4 +1,5 @@
 <?php include('register.php'); ?>
+
 <html>
   <head>
       <title>Login & Registration Form</title>
