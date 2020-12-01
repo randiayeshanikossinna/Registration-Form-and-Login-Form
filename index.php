@@ -1,4 +1,4 @@
-<?php include('register.php'); ?>
+
 
 <html>
   <head>
@@ -6,7 +6,8 @@
       <link rel="stylesheet"  href="style.css">
  </head>
  <body>
-
+    <!--display validation errors here-->
+    <?php include('errors.php'); ?>
      <div class="header">
      <h1>Register Form </h1>
      </div>
