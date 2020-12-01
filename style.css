@@ -1,0 +1,21 @@
+*{
+    margin:0px ;
+    padding: 0px;
+}
+body{
+    font-size:20px ;
+    background-color: lightblue;
+}
+.header{
+    width: 30%;
+    margin: 5% auto 0px;
+    color: white;
+    background: darkblue;
+    text-align: center;
+    border: 1px solid;
+    border-bottom: none;
+    padding: 20px;
+}
+.header .h1{
+    margin-top: -10px;
+}
