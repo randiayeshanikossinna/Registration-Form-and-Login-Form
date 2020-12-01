@@ -18,7 +18,6 @@
            <label>Comform Password<input type="password" name="password_2"></label> <br><br>
           <button type="submit" Name="register" class="btn">Register</button>
            </form>
-
     </div>
  </body>
 </html>
