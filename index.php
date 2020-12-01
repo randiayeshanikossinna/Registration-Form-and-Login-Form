@@ -8,7 +8,6 @@
      <div class="header">
      <h1>Register Form </h1>
      </div>
-
     <div class="inputdata">
     <form action="register.php" method="form">
            <label>User Name<input type="text" name="uname"></label> <br> <br>
