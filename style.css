@@ -28,3 +28,27 @@ body{
     background: white;
     border-radius: 0px 0px 10px 10px;
 }
+.inputdata{
+    margin: 10px 0px 10px 0px;
+}
+.inputdata label{
+    display: block;
+    text-align: left;
+    margin: 3px;
+}
+.inputdata input{
+    height: 25px;
+    width: 90%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.btn{
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: green;
+    border: none;
+    border-radius: 5px;
+}
